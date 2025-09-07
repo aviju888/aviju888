@@ -1,4 +1,4 @@
-# Adriel Vijuan  
+# Adriel V.
 _uc berkeley eecs + data science._   
 
 ---
