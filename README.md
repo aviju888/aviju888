@@ -1,16 +1,18 @@
-## Hi there 👋
+# Adriel Vijuan  
+_uc berkeley eecs + data science._   
 
-<!--
-**aviju888/aviju888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### focus: 
+> frontend. swe. computer vision. ai. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### about:  
+> based in the sf bay area.  
+> coder. designer. photographer. artist.
+
+---
+
+### connect  
+[linkedin](https://linkedin.com/in/adriel-vijuan) · [portfolio](https://avijuan.vercel.app) · [email](mailto:avijuan@berkeley.edu)
