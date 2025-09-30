@@ -4,7 +4,7 @@ _uc berkeley eecs + data science._
 ---
 
 ### focus: 
-> frontend. swe. computer vision. ai. 
+> swe. ai. design.
 
 ---
 
