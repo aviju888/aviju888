@@ -10,7 +10,7 @@ _uc berkeley eecs + data science._
 
 ### about:  
 > based in the sf bay area.  
-> coder. designer. photographer. artist.
+> coder. designer. photographer.
 
 ---
 
