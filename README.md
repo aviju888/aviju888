@@ -1,18 +1,9 @@
 # Adriel V.
-_uc berkeley eecs + data science._   
 
----
-
-### focus: 
-> swe. ai. design.
-
----
-
-### about:  
-> based in the sf bay area.  
-> coder. designer. photographer.
+> sf bay area. uc berkeley eecs alum.
+> creative technologist; building full-stack ai product systems and frontend experiences. 
 
 ---
 
 ### connect  
-[linkedin](https://linkedin.com/in/adriel-vijuan) · [portfolio](https://avijuan.vercel.app) · [email](mailto:avijuan@berkeley.edu)
+[linkedin](https://linkedin.com/in/adriel-vijuan) · [portfolio](https://avijuan.com) · [email](mailto:avijuan@berkeley.edu)
