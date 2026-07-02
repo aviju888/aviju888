@@ -1,7 +1,7 @@
 # Adriel V.
 
-> sf bay area. uc berkeley eecs alum.
-> creative technologist; building full-stack ai product systems and frontend experiences. 
+- sf bay area. uc berkeley eecs alum.
+- creative technologist; building full-stack ai product systems and frontend experiences. 
 
 ---
 
